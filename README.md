@@ -7,7 +7,7 @@ O objetivo foi aplicar técnicas de limpeza, visualização e machine learning p
 ### O que foi feito
 - Importação e exploração inicial do dataset.
 - Tratamento de dados ausentes e transformação de variáveis categóricas.
-- Treinamento de modelos preditivos: Regressão Logística e Árvore de Decisão.
+- Treinamento de modelos preditivos (para analisar a sobrevivencia dos passageiros): Regressão Logística e Árvore de Decisão.
 - Avaliação de desempenho com métricas de classificação.
 
 ### Resultados dos Modelos
